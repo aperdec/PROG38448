@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PROG38448.iml" filepath="$PROJECT_DIR$/PROG38448.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bmicalculator/bmicalculator.iml" filepath="$PROJECT_DIR$/bmicalculator/bmicalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2/week2.iml" filepath="$PROJECT_DIR$/week2/week2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/week3.iml" filepath="$PROJECT_DIR$/week3/week3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3_linear/week3_linear.iml" filepath="$PROJECT_DIR$/week3_linear/week3_linear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3_swap/week3_swap.iml" filepath="$PROJECT_DIR$/week3_swap/week3_swap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3_warmup/week3_warmup.iml" filepath="$PROJECT_DIR$/week3_warmup/week3_warmup.iml" />
+    </modules>
+  </component>
+</project>

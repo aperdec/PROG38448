@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week2</string>
+    <string name="edtName_hint">Enter Name</string>
+    <string name="btnDisplay_text">DISPLAY!</string>
+</resources>
