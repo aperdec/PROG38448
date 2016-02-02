@@ -1,1 +1,1 @@
-include ':app', ':week3_warmup', ':week3', ':week3_swap', ':week2', ':bmicalculator', ':week3_linear'
+include ':week3_warmup', ':week3', ':week3_swap', ':week2', ':bmicalculator', ':week3_linear', ':andrew_perdec_a1'
